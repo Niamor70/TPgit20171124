@@ -9,4 +9,4 @@ TP mise en pratique du cours git
 - [Hamza-miya](https://github.com/hamza-miya)
 - [snowwtarie](https://github.com/snowwtarie)
 - [Yornletard](https://github.com/Yornletard)
-- [Stibo] (https://github.com/stibolas)
+- [Stibo](https://github.com/stibolas)
