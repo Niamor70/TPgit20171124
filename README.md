@@ -5,4 +5,5 @@ TP mise en pratique du cours git
 
 - [Niamor70](https://github.com/Niamor70)
 - [Ousret](https://github.com/Ousret)
+- [Hamza-miya](https://github.com/hamza-miya)
 
