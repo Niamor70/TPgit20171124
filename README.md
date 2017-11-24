@@ -10,3 +10,4 @@ TP mise en pratique du cours git
 - [snowwtarie](https://github.com/snowwtarie)
 - [Yornletard](https://github.com/Yornletard)
 - [Stibo](https://github.com/stibolas)
+- [Pascale](https://github.com/PascaleImie)
